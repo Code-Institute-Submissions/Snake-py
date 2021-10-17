@@ -1,6 +1,6 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-#                        Dinis Marques                            #
-#                         Snake Python                            #
+#                        Athena Azar                              #
+#                        Snake Python                            #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 import turtle
 import random
